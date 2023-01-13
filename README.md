@@ -4,8 +4,8 @@ My name is Tiago Nunes and I'm a mobile developer
 
 Here, you can get to know about some of my projects and interests.
 
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagonuneslx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/tiagonuneslx/github-readme-stats#gh-dark-mode-only)
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagonuneslx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/tiagonuneslx/github-readme-stats#gh-light-mode-only)
+[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagonuneslx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagonuneslx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 **tiagonuneslx/tiagonuneslx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
