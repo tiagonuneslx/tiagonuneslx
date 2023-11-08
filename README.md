@@ -4,8 +4,6 @@
 
 📙 You can check out my portfolio here: https://tiagonuneslx.github.io/portfolio/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagonuneslx&layout=compact)
-
 <!--
 **tiagonuneslx/tiagonuneslx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
