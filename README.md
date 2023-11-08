@@ -1,8 +1,10 @@
-### Hi there, and welcome 👋
+### Hi there, and welcome 👋✨
 
-My name is <strong>Tiago Nunes</strong> and I'm a mobile developer
+👨🏻‍💻 My name is <strong>Tiago Nunes</strong> and I'm a mobile developer
 
-You can check out my portfolio here: https://tiagonuneslx.github.io/portfolio/
+📙 You can check out my portfolio here: https://tiagonuneslx.github.io/portfolio/
+
+[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagonuneslx)](https://github.com/tiagonuneslx/github-readme-stats)
 
 <!--
 **tiagonuneslx/tiagonuneslx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
