@@ -4,6 +4,8 @@
 
 📙 You can check out my portfolio here: https://tiagonuneslx.github.io/portfolio/
 
+🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/tiago-nunes-8430401b7/)!
+
 <!--
 **tiagonuneslx/tiagonuneslx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
