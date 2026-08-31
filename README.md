@@ -1,6 +1,6 @@
 ### Hi there, and welcome 👋✨
 
-👨🏻‍💻 My name is <strong>Tiago Nunes</strong> and I'm an Android developer (4 Years of Work Experience)
+👨🏻‍💻 My name is <strong>Tiago Nunes</strong> and I'm an Android developer (5 Years of Work Experience)
 
 📙 You can check out my portfolio here: https://tiagonuneslx.github.io/portfolio/
 
